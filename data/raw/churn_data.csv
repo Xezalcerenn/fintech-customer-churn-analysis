@@ -1,1 +1,1 @@
-customer_id
+customer_id,age,gender,tenure_months,account_balance,estimated_salary,number_of_products,has_credit_card,is_active_member,monthly_fee,support_calls,late_payments,churn
